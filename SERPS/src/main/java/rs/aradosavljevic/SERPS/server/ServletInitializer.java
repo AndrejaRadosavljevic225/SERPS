@@ -1,4 +1,4 @@
-package rs.aradosavljevic.SERPS;
+package rs.aradosavljevic.SERPS.server;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
